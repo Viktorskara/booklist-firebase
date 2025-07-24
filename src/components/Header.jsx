@@ -25,7 +25,7 @@ function Header({ pageTitle }) {
 
       <div className="header-btns">
         <NavLink to="/">
-          <button className="btn">Books</button>
+          <button className="btn">Book List</button>
         </NavLink>
 
         <NavLink to="/add-book">
